@@ -48,7 +48,7 @@ Fine-tuned both models for additional epochs to further improve performance.
 
 # How to Run
 
-Prerequisites
+    # Prerequisites
 
 Python 3.8+
 
@@ -62,8 +62,8 @@ Pandas, NumPy, Scikit-learn
 
 1- Clone this repository:
 
-    git clone 
-    cd 
+    git clone https://github.com/csaurabh26/Resume_extraction_using_LLM.git
+    cd NLP_PROJECT-2
 
 2- Run the training script:
 
@@ -72,3 +72,45 @@ Pandas, NumPy, Scikit-learn
 3- Evaluate the models:
 
     python evaluate.py
+
+
+# Future Work
+
+1- Enhancing Dataset: Include a larger and more diverse dataset for better generalization.
+
+2- Multilingual Support: Extend the model to handle resumes in multiple languages.
+
+3- Additional Models: Experiment with newer transformer models such as DeBERTa or LLaMA.
+
+4- Explainability: Develop visualization tools to explain model predictions.
+
+# References
+1-	Automated Resume Parsing: A Natural Language Processing Approach
+Thatavarthi Giri Sougandh; Sai Snehith K; Nithish Sagar Reddy; Meena Belwal
+Published in: 2023 7th International Conference on Computation System and Information Technology for Sustainable Solutions (CSITSS)
+Date of Conference: 02-04 November 2023
+Date Added to IEEE Xplore: 07 December 2023
+
+2-	Information Extraction From Free-Form CV Documents in Multiple Languages
+Davor Vukadin; Adrian Satja Kurdija; Goran Delač; Marin Šilić
+Published in: IEEE Access ( Volume: 9)
+Page(s): 84559 - 84575
+Date of Publication: 09 June 2021 
+Electronic ISSN: 2169-3536
+
+3-	Empirical Evaluation of Large Language Models in Resume Classification
+Prasanna Kumar R; Rithani M; Bharathi Mohan G; Venkatakrishnan R
+Published in: 2024 Fourth International Conference on Advances in Electrical, Computing, Communication and Sustainable Technologies (ICAECT)
+Date of Conference: 11-12 January 2024
+Date Added to IEEE Xplore: 21 March 2024 
+Conference Location: Bhilai, India
+
+4-	Revolutionizing Talent Acquisition: A Comparative Study of Large Language Models in Resume Classification
+R Venkatakrishnan; M Rithani; G Bharathi Mohan; V Sulochana; R PrasannaKumar
+Published in: 2024 5th International Conference on Innovative Trends in Information Technology (ICITIIT)
+Date of Conference: 15-16 March 2024
+Date Added to IEEE Xplore: 10 July 2024
+ISBN Information:
+DOI: 10.1109/ICITIIT61487.2024.10580109
+Conference Location: Kottayam, India
+
