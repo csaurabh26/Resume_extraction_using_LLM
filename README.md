@@ -63,15 +63,8 @@ Pandas, NumPy, Scikit-learn
 1- Clone this repository:
 
     git clone https://github.com/csaurabh26/Resume_extraction_using_LLM.git
-    cd NLP_PROJECT-2
-
-2- Run the training script:
-
-    python train.py
-
-3- Evaluate the models:
-
-    python evaluate.py
+    
+    RUN THE CODE IN SEQUENCE 
 
 
 # Future Work
