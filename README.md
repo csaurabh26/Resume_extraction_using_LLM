@@ -12,12 +12,12 @@ Labels: The Designation field is used as the target variable for classification.
 Preprocessing: The dataset was preprocessed to combine all relevant fields into a single text field for input into the models.
 # Models Used
 
-RoBERTa (Robustly Optimized BERT):
+1- RoBERTa (Robustly Optimized BERT):
 
 Pre-trained model fine-tuned for sequence classification.
 Tokenized input with a maximum length of 128.
 
-GPT-2:
+2- GPT-2:
 
 Adapted for classification by adding a classification head.
 Used a custom tokenizer with the EOS token as padding.
